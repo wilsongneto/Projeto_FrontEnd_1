@@ -52,3 +52,19 @@ html {
 .quotes-container p {
     font-style: italic;
 }
+
+.curiosities-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.curiosities-container li {
+    height: 30px;
+}
+
+.img-bold {
+    font-weight: bold;
+    text-align: center;
+}
