@@ -26,3 +26,8 @@ html {
 .main-paragraph {
     font-style: italic;
 }
+
+.featured-image {
+    text-align: center;
+    margin: 30px;
+}
